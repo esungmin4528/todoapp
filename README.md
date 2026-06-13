@@ -1,3 +1,6 @@
+## 시연영상 링크 
+https://youtube.com/shorts/P4_QSohWplg?feature=share
+
 # Smart Todo (스마트 할 일 관리 앱)
 
 SwiftUI와 MVVM 아키텍처를 기반으로 개발한 iOS 할 일 관리(Todo) 애플리케이션입니다.
